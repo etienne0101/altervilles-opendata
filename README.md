@@ -11,8 +11,8 @@ Il a vocation à héberger des jeux de données constitués par les étudiants, 
 
 ### Deux rendus sont attendus pour chaque groupe
 
-- Un jeu de données finalisé
-- Une documentation
+- [🔎 Un jeu de données finalisé](#-les-données)
+- [📖 Une documentation](#-la-documentation)
 
 ### Comment organiser le travail ?
 
