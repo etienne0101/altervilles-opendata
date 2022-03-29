@@ -47,7 +47,7 @@ Le modèle de fichier à créer se trouve ici
 - Le champ `VOTE REEL`= Nombre de présents
 - Si la délibération est adoptée à l'unanimité, alors `VOTE POUR`= Nombre de voix
 
-## La documentation
+## 📖 La documentation
 
 En supplément du jeu de donnée constitué par votre groupe, vous produisez une courte documentation (l'équivalent d'une ou deux pages maximum).
 
