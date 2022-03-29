@@ -29,7 +29,7 @@ Le modèle de fichier à créer se trouve ici
 #### Précisions sur les données
 
 - Le champ `DELIB_MATIERE_CODE`ne peut pas être complété, car il n'est pas précisé dans les délibérations
-- Le champ `DELIB_MATIERE_NOM`est à interpréter, à partir du l'objet de la délibération et de cette nomenclature [existante dans une autre administration](http://www.moselle.gouv.fr/content/download/1107/7994/file/nomenclature.pdf). Exemple : COMMANDE PUBLIQUE
+- Le champ `DELIB_MATIERE_NOM`est à interpréter, à partir de l'objet de la délibération et de cette nomenclature [existante dans une autre administration](http://www.moselle.gouv.fr/content/download/1107/7994/file/nomenclature.pdf). Exemple : COMMANDE PUBLIQUE
 - Le champ `VOTE EFFECTIF` = Nombre de membres en exercice
 - Le champ `VOTE REEL`= Nombre de présents
 - Si la délibération est adoptée à l'unanimité, alors `VOTE POUR`= Nombre de voix
