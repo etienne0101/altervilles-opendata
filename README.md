@@ -15,7 +15,7 @@ Plusieurs jeux de données sont identifiés :
 
 #### Délibérations de la métropole de Saint-Etienne
 
-**Où trouver les données ?**
 Les délibérations [se trouvent ici](https://www.saint-etienne-metropole.fr/la-metropole/vie-democratique/deliberations)
+Une liste des délibérations existe, mais ce n'est pas un jeu de données exploitable. 
 
-**Comment en faire un jeu de données ?**
+Le modèle de fichier à créer se trouve ici
