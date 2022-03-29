@@ -91,5 +91,5 @@ Elle détaille :
 
 ### Organisation et méthode (3 pts)
 
-- Votre groupe a fourni les éléments dans le délai demmandé (1 pts)
-- Vous avez sollicité de l'aide si c'était nécessaire ! (2 pt)
+- Votre groupe a fourni les éléments dans le délai demmandé (1 pt)
+- Vous avez sollicité de l'aide si c'était nécessaire ! (2 pts)
