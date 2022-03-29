@@ -77,19 +77,19 @@ Elle détaille :
 
 ## Critères d'évaluation - pour chaque groupe
 
-### Qualité des données
+### Qualité des données (10 pts)
 
-- Un fichier CSV a été déposé sur Github
-- Les données sont exploitables (la structure est respectée)
-- Même s'il peut manquer des données, vous avez fait votre possible pour constituer un fichier le plus complet possible
+- Un fichier CSV a été déposé sur Github - (2 pts)
+- Les données sont exploitables (la structure est respectée) - (2pts)
+- Même s'il peut manquer des données, vous avez fait votre possible pour constituer un fichier le plus complet et le plus correct possible - (6 pts)
 
-### Qualité de la documentation
+### Qualité de la documentation (7 pts)
 
-- Une documentation accompagne votre jeu de données
-- Vous avez détaillé correctement le contenu du fichier
-- Vous avez exposé vos difficultés et vos éléments de méthode
+- Une documentation accompagne votre jeu de données (2 pts)
+- Vous avez détaillé correctement le contenu du fichier (2 pts)
+- Vous avez exposé vos difficultés et vos éléments de méthode (3 pts)
 
-### Organisation et méthode
+### Organisation et méthode (3 pts)
 
-- Votre groupe a fourni les éléments dans le délai demmandé
-- Vous avez sollicité de l'aide si c'était nécessaire !
+- Votre groupe a fourni les éléments dans le délai demmandé (1 pts)
+- Vous avez sollicité de l'aide si c'était nécessaire ! (2 pt)
