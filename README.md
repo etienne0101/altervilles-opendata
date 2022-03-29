@@ -25,3 +25,8 @@ Nous allons nous concentrer sur les délibérations de 2022 (soit 108 délibéra
 #### Où se trouve le modèle de fichier à créer ?
 
 Le modèle de fichier à créer se trouve ici
+
+#### Précisions sur les données
+
+- Le champ `DELIB_MATIERE_CODE`ne peut pas être complété, car il n'est pas précisé dans les délibérations
+- Le champ `DELIB_MATIERE_NOM`est à interpréter, à partir du l'objet de la délibération et de cette nomenclature [existante dans une autre administration](http://www.moselle.gouv.fr/content/download/1107/7994/file/nomenclature.pdf). Exemple : COMMANDE PUBLIQUE
