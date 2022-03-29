@@ -46,3 +46,31 @@ Le modèle de fichier à créer se trouve ici
 - Le champ `VOTE EFFECTIF` = Nombre de membres en exercice
 - Le champ `VOTE REEL`= Nombre de présents
 - Si la délibération est adoptée à l'unanimité, alors `VOTE POUR`= Nombre de voix
+
+## La documentation
+
+En supplément du jeu de donnée constitué par votre groupe, vous produisez une courte documentation (l'équivalent d'une ou deux pages maximum).
+
+Elle détaille :
+
+### Le jeu de donnée et l'objectif de sa publication
+
+- Quel est le jeu de données ?
+- Quelles données contient-il ? (expliquez comme vous le feriez à un lycéen)
+- Quel est le périmètre / l'étendue des données (géographique et ou temporel)
+- À quoi peuvent servir ces données ? (en trois lignes maximum)
+
+### Votre méthode
+
+- Quelle est la source des données ?
+- Quels outils avez-vous utilisé ?
+
+### Vos difficultés
+
+- Est-ce que la source des données vous a permis de constituer le jeu de données que vous souhaitiez ?
+- Est-ce que c'est incomplet ? Pourquoi / qu'est-ce qu'il vous a manqué ?
+- Autre chose ?
+
+### Conclusion libre
+
+- Quelque-chose vous semble important ou utile à ajouter ?
