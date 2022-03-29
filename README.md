@@ -74,3 +74,22 @@ Elle détaille :
 ### Conclusion libre
 
 - Quelque-chose vous semble important ou utile à ajouter ?
+
+## Critères d'évaluation - pour chaque groupe
+
+### Qualité des données
+
+- Un fichier CSV a été déposé sur Github
+- Les données sont exploitables (la structure est respectée)
+- Même s'il peut manquer des données, vous avez fait votre possible pour constituer un fichier le plus complet possible
+
+### Qualité de la documentation
+
+- Une documentation accompagne votre jeu de données
+- Vous avez détaillé correctement le contenu du fichier
+- Vous avez exposé vos difficultés et vos éléments de méthode
+
+### Organisation et méthode
+
+- Votre groupe a fourni les éléments dans le délai demmandé
+- Vous avez sollicité de l'aide si c'était nécessaire !
