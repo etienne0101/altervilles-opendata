@@ -49,7 +49,7 @@ Le modèle de fichier à créer se trouve ici
 
 #### Comment publier les données sur Github ?
 
-👉 [C'est ici](#-publier-les-donnees-sur-github) 
+👉 [C'est ici](#-publier-les-données-sur-github) 
 
 ### Marchés publics de la Métropole de Saint-Etienne
 
@@ -73,7 +73,7 @@ Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [c
 
 #### Comment publier les données sur Github ?
 
-👉 [C'est ici](#-publier-les-donnees-sur-github) 
+👉 [C'est ici](#-publier-les-données-sur-github) 
 
 ## 🔌 Publier les données sur Github
 
