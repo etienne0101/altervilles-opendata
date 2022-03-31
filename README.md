@@ -51,13 +51,7 @@ Le modèle de fichier à créer se trouve ici
 
 #### Où se trouvent les données ? 
 
-<details>
-  
-  <summary>Indice<summary/>
-   
-  Les données se trouvent ici
-    
-<details/>
+<details><summary>Toggle me!</summary>Peek a boo!</details>
 
 ## 📖 La documentation
 
