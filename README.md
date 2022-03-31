@@ -89,6 +89,16 @@ Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [c
 
 En supplément du jeu de donnée constitué par votre groupe, vous produisez une courte documentation (l'équivalent d'une ou deux pages maximum).
 
+Instructions pour la documentation :
+
+1. ⚠️ Elle est rédigée en Markdown, vous pouvez le faire directement dans Github
+2. Allez [dans le dossier (data)](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
+3. Ajoutez un fichier :
+![image](https://user-images.githubusercontent.com/79003454/161101295-5094024f-0af7-4834-b15e-d0f64ac83786.png)
+
+5. Il faut nommer votre fichier en .md exemple `documentation-marches-publics.md`
+
+
 Elle détaille :
 
 ### Le jeu de donnée et l'objectif de sa publication
