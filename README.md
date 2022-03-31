@@ -97,9 +97,14 @@ Instructions pour la documentation :
 ![image](https://user-images.githubusercontent.com/79003454/161101295-5094024f-0af7-4834-b15e-d0f64ac83786.png)
 
 5. Il faut nommer votre fichier en .md exemple `documentation-marches-publics.md`
+6. Vous pouvez rédiger directement en langage Markdown : ici la [documentation du langage Markdown](https://docs.framasoft.org/fr/grav/markdown.html)
+7. Et cliquer sur "commit changes"
+![image](https://user-images.githubusercontent.com/79003454/161102078-024fb42f-07e6-4304-a589-36f3c6eba4a0.png)
 
 
-Elle détaille :
+---
+
+Votre documentation détaille :
 
 ### Le jeu de donnée et l'objectif de sa publication
 
