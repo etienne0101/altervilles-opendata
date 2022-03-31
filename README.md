@@ -67,13 +67,13 @@ Le modèle de fichier à créer se trouve ici
 
 #### Que faire avec ces données ?
 
-Vous devez les publier sur cet espace Github, au format CSV.
+Les publier sur cet espace Github, au format CSV.
 
 Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [comme celui-ci](https://csvjson.com/json2csv)
 
 #### Comment publier les données sur Github ?
 
-👉 [C'est ici](#-publier-les-données-sur-github) 
+👉 [C'est expliqué ici](#-publier-les-données-sur-github) 
 
 ## 🔌 Publier les données sur Github
 
