@@ -24,7 +24,7 @@ Il a vocation à héberger des jeux de données constitués par les étudiants, 
 
 Plusieurs jeux de données sont identifiés :
 
-### Délibérations de la métropole de Saint-Etienne
+### Délibérations de la Métropole de Saint-Etienne
 
 #### Où se trouvent les données ?
 
@@ -46,6 +46,15 @@ Le modèle de fichier à créer se trouve ici
 - Le champ `VOTE EFFECTIF` = Nombre de membres en exercice
 - Le champ `VOTE REEL`= Nombre de présents
 - Si la délibération est adoptée à l'unanimité, alors `VOTE POUR`= Nombre de voix
+
+### Marchés publics de la Métropole de Saint-Etienne
+
+#### Où se trouvent les données ? 
+
+<details>
+  <summary>Indice<summary/>
+    Les données se trouvent ici
+<details/>
 
 ## 📖 La documentation
 
