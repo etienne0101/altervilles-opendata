@@ -57,7 +57,7 @@ Le modèle de fichier à créer se trouve ici
 4. Cliquez sur rechercher
 5. Téléchargez les données de consultation
 
-<details><summary>Indice ?</summary>[C'est ici !](https://www.saint-etienne-metropole.fr/etudier-entreprendre/entreprises/marches-publics)</details>
+<details><summary>Indice ?</summary> C'est [ici](https://www.saint-etienne-metropole.fr/etudier-entreprendre/entreprises/marches-publics)</details>
 
 ## 📖 La documentation
 
