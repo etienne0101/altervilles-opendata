@@ -51,7 +51,13 @@ Le modèle de fichier à créer se trouve ici
 
 #### Où se trouvent les données ? 
 
-<details><summary>Toggle me!</summary>Peek a boo!</details>
+1. Je vous laisse chercher "Marchés publics Saint Etienne Métropole" dans Google
+2. Vous allez arriver sur une page qui vous permettra de faire une recherche avancée.
+3. Dans la recherche avancée, vous allez pouvoir sélectionner "Données essentielles".
+4. Cliquez sur rechercher
+5. Téléchargez les données de consultation
+
+<details><summary>Indice ?</summary>[C'est ici !](https://www.saint-etienne-metropole.fr/etudier-entreprendre/entreprises/marches-publics)</details>
 
 ## 📖 La documentation
 
