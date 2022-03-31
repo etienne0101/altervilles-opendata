@@ -51,7 +51,7 @@ Le modèle de fichier à créer se trouve ici
 
 #### Où se trouvent les données ? 
 
-1. Je vous laisse chercher "Marchés publics Saint Etienne Métropole" dans Google
+1. Cherchez "Marchés publics Saint Etienne Métropole" dans Google
 2. Vous allez arriver sur une page qui vous permettra de faire une recherche avancée.
 3. Dans la recherche avancée, vous allez pouvoir sélectionner "Données essentielles".
 4. Cliquez sur rechercher
@@ -66,6 +66,13 @@ Le modèle de fichier à créer se trouve ici
 Vous devez les publier sur cet espace Github, au format CSV.
 
 Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [comme celui-ci](https://csvjson.com/json2csv)
+
+#### Comment publier les données sur Github ?
+
+Une fois votre CSV prêt, vous pourrez l'ajouter [dans le dossier data](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
+
+![image](https://user-images.githubusercontent.com/79003454/161097865-1157f18c-eb32-49a5-9d35-58d837173508.png)
+
 
 ## 📖 La documentation
 
