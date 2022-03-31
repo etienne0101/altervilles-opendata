@@ -39,7 +39,7 @@ Nous allons nous concentrer sur les délibérations de 2022 (soit 108 délibéra
 
 Le modèle de fichier à créer se trouve ici
 
-#### Précisions sur les données
+#### Précisions sur le modèle de données
 
 - Le champ `DELIB_MATIERE_CODE`ne peut pas être complété, car il n'est pas précisé dans les délibérations
 - Le champ `DELIB_MATIERE_NOM`est à interpréter, à partir de l'objet de la délibération et de cette nomenclature [existante dans une autre administration](http://www.moselle.gouv.fr/content/download/1107/7994/file/nomenclature.pdf). Exemple : COMMANDE PUBLIQUE
@@ -59,7 +59,13 @@ Le modèle de fichier à créer se trouve ici
 
 👉 C'est compliqué et le parcours pour accéder à la donnée n'est pas satisfaisant.
 
-<details><summary>Indice</summary> C'est ici :https://www.saint-etienne-metropole.fr/etudier-entreprendre/entreprises/marches-publics </details>
+<details><summary>Indice</summary> C'est ici : https://www.saint-etienne-metropole.fr/etudier-entreprendre/entreprises/marches-publics </details>
+
+#### Que faire avec ces données ?
+
+Vous devez les publier sur cet espace Github, au format CSV.
+
+Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [comme celui-ci](https://csvjson.com/json2csv)
 
 ## 📖 La documentation
 
