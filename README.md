@@ -47,6 +47,16 @@ Le modèle de fichier à créer se trouve ici
 - Le champ `VOTE REEL`= Nombre de présents
 - Si la délibération est adoptée à l'unanimité, alors `VOTE POUR`= Nombre de voix
 
+#### Comment publier les données sur Github ?
+
+1. Une fois votre CSV prêt, vous pourrez l'ajouter [dans le dossier data](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
+
+2. Pour cela, cliquez à droite sur Add file / Upload files :
+
+![image](https://user-images.githubusercontent.com/79003454/161098129-9241c830-5b2d-4435-800c-92dc49063908.png)
+
+3. C'est tout bon ! maintenant, [ajoutez votre documentation dans le même dossier](#-la-documentation)
+
 ### Marchés publics de la Métropole de Saint-Etienne
 
 #### Où se trouvent les données ? 
