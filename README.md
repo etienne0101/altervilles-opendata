@@ -69,10 +69,13 @@ Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [c
 
 #### Comment publier les données sur Github ?
 
-Une fois votre CSV prêt, vous pourrez l'ajouter [dans le dossier data](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
+1. Une fois votre CSV prêt, vous pourrez l'ajouter [dans le dossier data](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
 
-![image](https://user-images.githubusercontent.com/79003454/161097865-1157f18c-eb32-49a5-9d35-58d837173508.png)
+2. Pour cela, cliquez à droite sur Add file / Upload files :
 
+![image](https://user-images.githubusercontent.com/79003454/161098129-9241c830-5b2d-4435-800c-92dc49063908.png)
+
+3. C'est tout bon ! maintenant, [ajoutez votre documentation dans le même dossier](#-la-documentation)
 
 ## 📖 La documentation
 
