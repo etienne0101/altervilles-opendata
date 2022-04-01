@@ -11,8 +11,7 @@
 
 ## Organisation de l'équipe
 
-- Qui saisit les données ? 
-- Qui met en qualité (vérification de la cohérence / contrôle qualité)
+- Qui extrait les données ?
 - Qui publie le CSV sur Github ?
 - Qui rédige la documentation ?
 - Qui publie la documentation ?
