@@ -16,9 +16,9 @@ Il a vocation à héberger des jeux de données constitués par les étudiants, 
 
 ### Comment organiser le travail ?
 
-- Chaque groupe travaille sur un des jeux de données proposés
-- L'édition du jeu de données est répartie dans le groupe pour alléger le travail
-- Chaque groupe a un référent, qui sera chargé de publier le fichier finalisé sur github
+1. Rendez-vous sur le [doc de gestion des groupes](groupes/organisation.md)
+2. Consultez les données sur lesquelles vous allez travailler
+3. Définissez vos rôles et répartissez vous les différentes tâches
 
 ## 🔎 Les données
 
