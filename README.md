@@ -183,6 +183,7 @@ Votre documentation détaille :
 ### Conclusion libre
 
 - Quelque-chose vous semble important ou utile à ajouter ?
+👉 N'hésitez pas à consulter le contenu des données en détail et proposer une courte analyse.
 
 ## Critères d'évaluation - pour chaque groupe
 
