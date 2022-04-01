@@ -119,6 +119,7 @@ Pour le jeu de données `Commerces`
 
 - C'est le jeu de données le plus complet
 - Vous pouvez supprimer les rangs vides (filtrer les données où le champ "name" est vide)
+- Enrchissez le jeu de données pour les commerces que vous connaissez (horaires, site web, contacts...)
 
 #### Comment publier les données sur Github ?
 
