@@ -95,11 +95,41 @@ Nous allons nous concentrer sur trois jeux de données :
 3. Sélectionnez le territoire (Saint Etienne Métropole)
 4. Cliquez sur "télécharger"
 
+#### Comment mettre en qualité les données ?
 
+1. Supprimer les colonnes les plus vides (lorsque moins de 10% des champs sont renseignés environ)
+2. Compléter certaines données quand c'est possible. 
+
+**Détails :**
+
+Pour le jeu de données `Services publics`:
+
+- Compléter les noms des mairies et des établissements. Exemple : "Mairie de La Talaudière" au lieu de "Mairie".
+
+Pour le jeu de données `Patrimoine historique`
+
+- Supprimer les rangs vides - pour lesquels il n'y a pas de nom
+
+Pour le jeu de données `Stationnement vélo`
+
+- À priori il n'y a pas de mise en qualité à envisager (?)
+
+Pour le jeu de données `Commerces`
+
+- C'est le jeu de données le plus complet
+- Vous pouvez supprimer les rangs vides (filtrer les données où le champ "name" est vide)
+
+#### Comment publier les données sur Github ?
+
+👉 [C'est expliqué ici](#-publier-les-données-sur-github) 
+
+---
 
 ## 🔌 Publier les données sur Github
 
-1. Une fois votre CSV prêt, vous pourrez l'ajouter [dans le dossier data](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
+1. Une fois votre CSV prêt, vous pourrez lui donner un nom (`machin-truc-saint-etienne-metropole.csv`) 
+
+3. Et l'ajouter [dans le dossier data](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
 
 2. Pour cela, cliquez à droite sur Add file / Upload files :
 
