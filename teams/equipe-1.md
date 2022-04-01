@@ -4,8 +4,8 @@
 
 ## Membres
 
-Prénom, Nom
-Prénom, Nom
+- Prénom, Nom
+- Prénom, Nom
 
 ## Données à produire
 
