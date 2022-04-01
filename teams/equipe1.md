@@ -7,7 +7,7 @@
 Prénom, Nom
 Prénom, Nom
 
-## Données
+## Données à produire
 
 [Les délibération à Saint-Etienne Métropole](/README.md#délibérations-de-la-métropole-de-saint-etienne)
 
@@ -16,3 +16,5 @@ Prénom, Nom
 🔗 Lien vers le jeu de données
 
 🔗 Lien vers la documentation
+
+❓ [Comment produire votre documentation ?](/README.md#-la-documentation)
