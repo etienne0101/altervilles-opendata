@@ -1,6 +1,6 @@
 # EQUIPE 1
 
-⚠️ Ce doit être l'équipe avec le plus de membres car le jeu de données nécessite plus de mise en qualité).
+⚠️ Ce doit être l'équipe avec le plus de membres car le jeu de données nécessite plus de mise en qualité.
 
 ## Membres
 
