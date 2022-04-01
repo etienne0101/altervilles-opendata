@@ -7,14 +7,19 @@
 
 ## Données à produire
 
-[Patrimoine historique dans la Métropole de Saint-Etienne](/README.md##données-sur-les-points-dintérêt-du-territoire)
+[Stationnement de vélo dans la Métropole de Saint-Etienne](/README.md##données-sur-les-points-dintérêt-du-territoire)
+
+[Services publics dans la Métropole de Saint-Etienne](/README.md##données-sur-les-points-dintérêt-du-territoire)
+
 
 ## Organisation de l'équipe
 
-- Qui extrait les données ?
+- Qui saisit ou traite les données ? 
+- Qui met en qualité (vérification de la cohérence / contrôle qualité)
 - Qui publie le CSV sur Github ?
 - Qui rédige la documentation ?
 - Qui publie la documentation ?
+
 
 👉 Chacun peut avoir plusieurs rôles ! L'objectif est de vous répartir le temps nécessaire
 
