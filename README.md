@@ -16,7 +16,7 @@ Il a vocation à héberger des jeux de données constitués par les étudiants, 
 
 ### Comment organiser le travail ?
 
-1. Rendez-vous sur le [doc de gestion des groupes](groupes/organisation.md)
+1. Rendez-vous sur votre [espace d'équipe](/teams)
 2. Consultez les données sur lesquelles vous allez travailler
 3. Définissez vos rôles et répartissez vous les différentes tâches
 
