@@ -29,7 +29,8 @@ Plusieurs jeux de données sont identifiés :
 #### Où se trouvent les données ?
 
 Les délibérations [se trouvent ici](https://www.saint-etienne-metropole.fr/la-metropole/vie-democratique/deliberations)
-Une liste des délibérations existe, mais ce n'est pas un jeu de données exploitable. 
+
+👉 Une liste des délibérations existe, mais ce n'est pas un jeu de données exploitable. 
 
 #### Quel est le périmètre des données à constituer ?
 
