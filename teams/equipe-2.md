@@ -9,6 +9,8 @@
 
 [Marchés publics de la Métropole de Saint-Etienne](/README.md#marchés-publics-de-la-métropole-de-saint-etienne)
 
+[Patrimoine historique dans la Métropole de Saint-Etienne](/README.md##données-sur-les-points-dintérêt-du-territoire)
+
 ## Organisation de l'équipe
 
 - Qui extrait les données ?
