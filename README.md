@@ -75,6 +75,28 @@ Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [c
 
 👉 [C'est expliqué ici](#-publier-les-données-sur-github) 
 
+### Données sur les points d'intérêt du territoire
+
+Ce sont les données géographiques sur les services et établissements du territoire. Elles se trouvent notamment sur [OpenStreetMap](http://openstreetmap.org/), cartographie collaborative en ligne.
+
+#### Quelles données publier ?
+
+Nous allons nous concentrer sur trois jeux de données : 
+
+1. Services publics
+2. Patrimoine historique
+3. Stationnement de vélo
+4. Commerces
+
+#### Comment extraire les données ?
+
+1. Rendez-vous sur Géodatamine (outil qui extrait les données depuis OpenStreetMap)
+2. Sélectionner la donnée que vous recherchez
+3. Sélectionnez le territoire (Saint Etienne Métropole)
+4. Cliquez sur "télécharger"
+
+
+
 ## 🔌 Publier les données sur Github
 
 1. Une fois votre CSV prêt, vous pourrez l'ajouter [dans le dossier data](https://github.com/etienne0101/altervilles-opendata/tree/main/data)
