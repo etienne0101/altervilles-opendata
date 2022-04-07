@@ -38,7 +38,7 @@ Nous allons nous concentrer sur les délibérations de 2022 (soit 108 délibéra
 
 #### Où se trouve le modèle de fichier à créer ?
 
-Le modèle de fichier à créer se trouve ici
+Le modèle de fichier à créer [se trouve ici](/modeles)
 
 #### Précisions sur le modèle de données
 
