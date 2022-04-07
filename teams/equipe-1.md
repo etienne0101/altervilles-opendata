@@ -4,8 +4,9 @@
 
 ## Membres
 
-- Prénom, Nom
-- Prénom, Nom
+- Camille Fuentes Renaud
+- Prudencio Johnson
+- Léonie Paille
 
 ## Données à produire
 
