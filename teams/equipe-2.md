@@ -21,8 +21,6 @@
 
 👉 Chacun peut avoir plusieurs rôles ! L'objectif est de vous répartir le temps nécessaire
 
-👉 Chacun peut avoir plusieurs rôles ! L'objectif est de vous répartir le temps nécessaire
-
 ## Production
 
 🔗 Lien vers le jeu de données
