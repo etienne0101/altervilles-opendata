@@ -2,8 +2,7 @@
 
 ## Membres
 
-- Prénom, Nom
-- Prénom, Nom
+- Alice Thevenot
 
 ## Données à produire
 
