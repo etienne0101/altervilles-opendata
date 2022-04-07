@@ -2,8 +2,8 @@
 
 ## Membres
 
-- Prénom, Nom
-- Prénom, Nom
+- Louis Tisstot
+- Aline Guoguel
 
 ## Données à produire
 
