@@ -2,8 +2,9 @@
 
 ## Membres
 
-- Prénom, Nom
-- Prénom, Nom
+- Alice Sarno
+- Djibril Hassan
+- Raphaël Egger
 
 ## Données à produire
 
