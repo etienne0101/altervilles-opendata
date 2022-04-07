@@ -70,7 +70,7 @@ Le modèle de fichier à créer [se trouve ici](/modeles)
 
 Les publier sur cet espace Github, au format CSV.
 
-Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [comme celui-ci](https://csvjson.com/json2csv)
+Pour convertir le fichier JSON récupéré en CSV, plusieurs outils existent, [comme celui-ci](https://www.convertcsv.com/)
 
 #### Comment publier les données sur Github ?
 
