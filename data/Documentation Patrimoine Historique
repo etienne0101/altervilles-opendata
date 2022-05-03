@@ -1,0 +1,20 @@
+# Documentation Patrimoine Historique :church: :statue_of_liberty: #
+
+## Le jeu de donnée et l'objectif de sa publication ##
+* Le jeu de données est celui des éléments du patrimoine historique de Saint-Etienne.
+* Les données contiennent la référence du noeud dans OpenStreetMap, le type, le nom, la référence mhs, la religion, l'inscription, la date de construction, la description, l'héritage, la com_insee et les coordonnées GPS (x, y).
+* Les données s'étendent sur le périmètre de la ville de Saint-Etienne. Et elles retracent le patrimoine historique actuel.
+* Ce jeu de données peut servir notamment à des fins touristiques,  universitaires. Ou encore, pour une politique publique de rénovation du patrimoine historique.
+
+## La méthode ##
+* La source de données est OpenStreetMap.
+* Les outils utilisés ont été Géodatamine, puis un convertisseur de fichier en fichier csv.
+
+## Nos difficultés ##
+* La source de données nous a permis de constituer le jeu de données souhaité.
+* Le jeu de données semblent complet, mais il est difficile de savoir si c'est une liste exaustive. COmme OpenStreetMap est un site collaboratif, il manque certainement certains sites de patrimoine historique. Aussi, parfois il manquait une date, donc nous avons cherché sur Google.
+* Il faut un peu de temps pour comprendre l'argot de OpenStreetMap, il faut chercher sur internet la signification de certaines infos (exemple: référence mhs)
+
+## Conclusion libre ##
+* Comme cette discipline est très nouvelle pour nous, nous avons du mal à appréhender quelles infos peuvent servir ou non. Donc nous avons préféré laisser des infos dont nous ne comprenions pas exactement l'utilité, comme "référence mhs", "héritage", "com_insee".
+* Il y a majoritairement des éléments de patrimoine religieux dans les données. Certains éléments historiques telles que des petites statues sur la devanture de bâtiments ne font pas partie du jeu de données malheureusement.
