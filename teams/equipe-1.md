@@ -6,7 +6,7 @@
 
 - Camille Fuentes Renaud
 - Prudencio Johnson
-- Léonie Paille
+- Léonie GOURRIBON
 
 ## Données à produire
 
