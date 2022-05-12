@@ -1,0 +1,118 @@
+X;Y;osm_id;type;name;operator;opening_hours;phone;email;com_insee;com_nom
+4.5738615;45.4832861004149;node/1369279972;townhall;"Mairie de 
+Saint-Paul-en-Jarez";;"Mo-Fr 08:30-12:00,14:00-17:30; We 08:30-12:00; Th 08:30-12:00,15:00-19:00";33477732124;mairie@saint-paul-en-jarez.fr;42271;Saint-Paul-en-Jarez
+4.379642;45.4734050004162;node/1674389478;townhall;"Mairie de Saint-Priest-en-Jarez 
+";;Mo-Fr 08:30-12:00,13:00-16:30;33477911330;;42275;Saint-Priest-en-Jarez
+4.5833121;45.5108546004115;node/1683280753;townhall;Hotel de Ville de Lorette;;Mo-Fr 08:00-12:00,13:30-17:30;33477733044;mairie@ville-lorette.fr;42123;Lorette
+4.4350736;45.4815149004152;node/1729689588;townhall;Mairie de La Talaudiaire;;Mo-Fr 08:00-12:00,13:30-17:00;33477539200;;42305;La Talaudiaire
+4.3927444;45.4212991004226;node/1745707181;townhall;Mairie de proximité de Centre Deux;Ville de Saint-Etienne;;;;42218;Saint-Etienne
+4.3525958;45.4677770004169;node/1755036111;townhall;Mairie de Villars;;Mo-Fr 08:30-12:00,13:30-17:30;33477911120;secretariat@villars.fr;42330;Villars
+4.322642;45.4330469004211;node/1821807434;townhall;"Hotel de Ville de 
+Roche-la-Molière";;;33477907700;mairie@rochelamoliere.fr;42189;Roche-la-Molière
+4.3186274;45.5903949004012;node/1889459906;townhall;Mairie de Saint-Galmier;;"Mo 08:30-12:00; Tu-Fr 08:30-12:00,13:30-17:00";33477527400;;42222;Saint-Galmier
+4.4366507;45.4359879004208;node/1914361953;townhall;Mairie de proximité de Terrenoire;Ville de Saint-Etienne;;;;42218;Saint-Ã‰tienne
+4.5957207;45.5442376004072;node/1969792003;townhall;Mairie Saint-Martin-la-Plaine;;Mo-Fr 08:00-12:00,13:00-17:00;33477750725;mairie@saintmartinlaplaine.fr;42259;Saint-Martin-la-Plaine
+4.3252503;45.3960425004256;node/2228898351;townhall;Hotel de ville  de Le Chambon-Feugerolles;;Mo-Fr 08:30-12:15,13:30-17:00;33477403020;mairie@lechambon.fr;42044;Le Chambon-Feugerolles
+4.4205608;45.4188668004229;node/2386403588;townhall;Mairie de proximité de la Métare;Ville de Saint-Etienne;;;;42218;Saint-Etienne
+4.2871654;45.3879348004266;node/2399244982;townhall;Hotel de Ville de Firmigny;;"Mo-Fr 08:30-12:00,13:30-17:00; Sa 09:00-11:00";33477405060;;42095;Firminy
+4.445833;45.4105805004239;node/2448347596;townhall;Mairie de proximité de Rochetaillée;Ville de Saint-Etienne;;;;42218;Saint-Etienne
+4.4007824;45.4706547004165;node/2463696716;townhall;Mairie de proximité de Montreynaud;Ville de Saint-Etienne;;;;42218;Saint-Etienne
+4.6200903;45.5295134004091;node/2497332451;government;Archives municipales de Rive-de-Gier;;;;;42186;Rive-de-Gier
+4.61885;45.5296793004091;node/2497347168;government;Centre des finances publiques de Rive-de-Gier;;;;;42186;Rive-de-Gier
+4.4029744;45.4411897004202;node/2568007739;government;Maison des Projets Urbains;;;;;42218;Saint-Etienne
+4.3363129;45.4460447004196;node/2766421411;townhall;Mairie de Saint-Genest-Lerpt ;;"Mo 13:30-16:30; Tu-Th 08:30-12:00,13:30-16:30; Fr 08:30-12:00; Sa 09:30-11:30";33477505180;mairie@ville-st-genest-lerpt.fr;42223;Saint-Genest-Lerpt
+4.51385;45.4773371004157;node/2824723901;government;Conseil général de la Loire - Délégation à  la vie sociale de Saint-Chamond;;Mo-Fr 09:00-12:00,13:30-17:00;;;42207;Saint-Chamond
+4.5134002;45.4771197004157;node/2824724101;government;Centre Communal d'Action Sociale de Saint-Chamond;;Mo-Fr 08:30-12:00,13:30-17:30;;;42207;Saint-Chamond
+4.3203943;45.576942000403;node/2825720545;townhall;Mairie de Chamboeuf;;"Mo-Fr 09:00-11:30,14:30-18:00; Tu 09:00-11:30; We 14:30-18:00";33477540372;;42043;Chamboeuf
+4.6680134;45.553293700406;node/3187414820;townhall;Mairie Tartaras;;"Mo,Th 08:30-12:00,14:00-18:30; Tu,Fr 14:00-18:30; We 09:00-12:00";33477751898;;42307;Tartaras
+4.5805541;45.5332798004086;node/3220570909;townhall;Mairie Genilac;;"Mo 08:00-12:00,14:00-18:00; Tu-Fr 08:00-12:00,14:00-17:00; We 08:00-12:00,14:00-19:00";33477750858;mairie@genilac.fr;42225;Genilac
+4.6181728;45.5559051004057;node/3220612461;townhall;Mairie de Saint-Joseph;;"Mo-Th 08:00-12:00; We,Fr 08:00-12:00,13:30-17:00; Jul-Aug We,Fr 08:00-12:00";33477750753;secretariat@commune-saint-joseph.fr;42242;Saint-Joseph
+4.3983105;45.4400064004203;node/3233291659;government;Saint-Etienne Métropole;;;;;42218;Saint-Etienne
+4.3875965;45.4399769004203;node/3314266844;diplomatic;Consulat de Slovénie;;;;;42218;Saint-Etienne
+4.0805358;45.4030126004248;node/3482836440;townhall;Mairie de Saint-Nizier-de-Fornas;;"Mo 09:00-12:00,14:00-17:00; Th,Fr 14:00-17:00";33477500897;mairie@saint-nizier-de-fornas.fr;42266;Saint-Nizier-de-Fornas
+4.3956305;45.4217379004225;node/3484164916;government;La Direction Départementale de la Protection des Populations;;Mo-Fr 09:00-12:00,14:00-17:00;;;42218;Saint-Etienne
+4.3849999;45.4210164004226;node/3551023394;townhall;Mairie de proximité de La Cotonne;Ville de Saint-Etienne;;;;42218;Saint-Etienne
+4.4929237;45.5213840004101;node/3568946893;townhall;Mairie de Valfleury;;"Mo,Th 15:00-17:45; Tu,We,Fr,Sa 09:00-11:45";33477207701;;42320;Valfleury
+4.3867037;45.4404804004202;node/3617526052;government;Office du Commerce de Saint-Etienne;;;;;42218;Saint-Etienne
+4.3865968;45.4434078004199;node/3721573321;government;DIRECCTE Rhône-Alpes Unité territoriale de la Loire;;;;;42218;Saint-ETienne
+4.5345714;45.5557464004057;node/4013930225;townhall;Mairie de Saint-Romain-en-Jarez;;"Mo 08:30-12:00; Tu,Th 08:30-12:00,13:30-18:00; Fr 13:30-18:00";33477208033;mairie.stromainenjarez@wanadoo.fr;42283;Saint-Romain-en-Jarez
+4.5160767;45.4165312004231;node/4059492284;townhall;Mairie de La Valla en Gier;;"Mo,Tu 08:30-12:00; Th 08:30-12:00,14:00-18:30; Fr 08:30-12:00,14:00-17:30";33477360858;mairie@la-valla-en-gier.fr;42322;La Valla-en-Gier
+4.409844;45.4228284004224;node/4366358222;government;Département de la Loire;;;;;42218;Saint-Etienne
+4.3288073;45.5430655004074;node/5120293327;townhall;Mairie Saint-Bonnet-les-Oules;;"Mo 14:00-17:00; Tu-Th 09:00-12:00; Fr 09:00-12:00,14:00-17:00";33477540582;mairie@saint-bonnet-les-oules.fr;42206;Saint-Bonnet-les-Oules
+4.5062093;45.4770852004157;node/5123468371;government;Centre d'information et d'orientation Saint-Chamond;;;+33 4 77222288;;42207;Saint-Chamond
+4.2416531;45.3972480004255;node/5136170749;townhall;Mairie Saint-Paul-en-Cornillon;;"Mo-Th 13:30-17:30; Fr 14:00-17:00";33477357119;;42270;Saint-Paul-en-Cornillon
+4.4094869;45.5575598004055;node/5142324642;townhall;Mairie La Gimond;;"Mo 13:45-18:30; Th 08:45-12:00";33477304422;mairie-la-gimond@wanadoo.fr;42100;La Gimond
+4.5973361;45.4923111004138;node/5144411313;townhall;Mairie Farnay;;"Mo 08:30-12:00,13:30-17:30; Tu-Fr 08:30-12:00; Th 08:30-12:00,13:30-16:30";33477735946;mairie@farnay.fr;42093;Farnay
+4.5829765;45.4466897004195;node/5144412023;townhall;Mairie La Terrasse-sur-Dorlay;;"Mo-We 08:00-12:00; Fr 13:00-18:00";33477209559;mairie@la-terrasse-sur-dorlay.com;42308;La Terrasse-sur-Dorlay
+4.6670677;45.5602318004051;node/5518539653;townhall;Mairie Daroire;;"Mo 09:00-12:00,14:00-19:00; Tu-Fr 09:00-12:00,14:00-17:30; We off";;;42083;Dargoire
+4.5069329;45.475021000416;node/5683190092;government;Caisse d'Allocations Familiales de Loire Saint-Chamond;;;;;42207;Saint-Chamond
+4.5138949;45.4773374004157;node/5875711834;government;Maison départementale des personnes handicapées Saint-Chamond;;"""Sur rendez-vous au 04 77 29 27 58 ou saint-chamond@mla.loire.fr""";;;42207;Saint-Chamond
+4.515628;45.474887400416;node/6015818084;government;Centre des Finances Publiques Saint-Chamond;;;;;42207;Saint-Chamond
+4.4818215;45.5721246004036;node/6040249696;townhall;Mairie Marcenod;;"Mo-Sa 10:00-12:00; Fr 10:00-12:00,16:00-17:30";33477208608;;42133;Marcenod
+4.4860171;45.5438673004072;node/6040274075;townhall;Mairie Saint-Christo-en-Jarez;;"Tu,Fr 08:30-12:00,13:00-17:00; We,Th 08:30-12:00; Sa 08:00-12:00";33477208519;;42208;Saint-Christo-en-Jarez
+4.5429695;45.4856528004146;node/6051463745;townhall;Mairie L'Horme;;"Mo-Fr 08:30-12:00,13:30-17:30; We 08:30-12:00,14:00-17:30";33477221209;mairie@ville-horme.fr;42110;L'Horme
+4.4372519;45.5468860004069;node/6070498195;townhall;Mairie Fontanès;;"Mo,We 09:00-12:00; Tu,Th 15:00-18:30; Fr 15:00-17:00";33477208708;;42096;Fontanès
+4.5162163;45.4733211004162;node/6181444786;government;L'Assurance Maladie (Sécurité Sociale) Saint-Chamond;;;;;42207;Saint-Chamond
+4.5119967;45.4730455004162;node/6198981752;government;Pôle Emploi Saint-Chamond;;;;;42207;Saint-Chamond
+4.1305204;45.4149326004233;node/6268598519;townhall;Mairie Aboën;;;33477503512;info@mairie-aboen.fr;42001;Aboën
+4.1036329;45.3714781004285;node/6268857747;townhall;Mairie Rozier-Côtes-d'Aurec;;"Mo 13:30-17:00; Th 09:00-12:00";33477500473;mairie@mairie-roziercotesdaurec.fr;42192;Rozier-Côtes-d'Aurec
+4.2592012;45.5250181004097;node/6270957950;townhall;Mairie d'Andrézieux-Bouthéon;;"Mo-Fr 08:30-12:00,13:30-17:00; Sa 09:00-11:30";33477550342;;42005;Andrézieux-Bouthéon
+4.2426132;45.4187192004229;node/6274565536;townhall;Mairie;;;33477357106;mairie-caloire@orange.fr;42031;Ã‡aloire
+4.5412652;45.5232527004099;node/6274585172;townhall;Mairie de Cellieu;;"Mo-Fr 08:00-12:00; We 14:00-17:00";33477730091;;42032;Cellieu
+4.6190011;45.5296336004091;node/6276735029;townhall;Mairie de Rive-de-ier;;;33477830780;mairie@ville-rivedegier.fr;42186;Rive-de-Gier
+4.6250257;45.5219554004101;node/6276770531;townhall;Mairie de Châteauneuf;;"Mo-Th 08:30-12:30; Fr 08:30-12:30,13:00-17:30";33477750793;mairie@mairiedechateauneuf.fr;42053;Châteauneuf
+4.5381777;45.4737075004161;node/6278106298;government;Centre Technique Communautaire du Gier - Saint-Etienne Métropole (Saint-Chamond);;;;;42207;Saint-Chamond
+4.5862741;45.4270959004219;node/6288788886;townhall;Mairie Doizieux;;;33477209562;mairie.doizieux@wanadoo.fr;42085;Doizieux
+4.3772447;45.4855459004146;node/6293370897;townhall;Mairie L'Etrat;;Mo-Fr 09:00-12:00,14:00-16:00;33477913131;etrat.mairie@orange.fr;42092;L'Etrat
+4.3181306;45.5003520004128;node/6301126519;townhall;Mairie La Fouillouse;;Mo-Fr 08:00-12:30,13:30-18:00;33477301034;mairie@lafouillouse.fr;42097;La Fouillouse
+4.2691248;45.3881357004266;node/6301275190;townhall;Mairie Fraisses;;;33477405640;contact@fraisses.fr;42099;Fraisses
+4.6709023;45.4655103004171;node/6315724903;townhall;Mairie Pavezin;;Tu,Fr 14:00-17:00;33477202039;mairie.de.pavezin@wanadoo.fr;42167;Pavezin
+4.3829602;45.4359656004208;node/6323319939;government;Maison des projets Tarentaize Beaubrun Couriot;;;;;42218;Saint-Etienne
+4.3660672;45.4042078004246;node/6337194405;townhall;Mairie La Ricamarie;;"Mo-Th 08:15-12:00,13:30-17:00; Fr 08:15-12:00,13:30-15:45";33477810400;mairie@ville-la-ricamarie.fr;42183;La Ricamarie
+4.3732791;45.5292739004091;node/6345219049;townhall;Mairie Saint-Héand;;"Mo-Fr 09:00-12:00,14:00-17:30; Tu 09:00-12:00,14:00-19:00";33477304123;mairie@saint-heand.fr;42234;Saint-Héand
+4.4445878;45.4492205004192;node/6347142460;townhall;Hotel de Ville Saint-Jean-Bonnefonds;;;33477950703;contact@ville-st-jean-bonnefonds.fr;42237;Saint-Jean-Bonnefonds
+4.1814417;45.4035032004247;node/6347782795;townhall;Mairie Saint-Maurice-en-Gourgois;;"Mo-Th 09:00-12:00,14:00-18:00; We off; Fr 14:00-18:00; Sa 09:00-12:00";33477503012;accueil@saint-maurice-en-gourgois.fr;42262;Saint-Maurice-en-Gourgois
+4.4495841;45.490716000414;node/6353947596;townhall;Mairie Soribiers;;"Mo-Th 08:30-12:00,13:30-17:00; Fr 08:30-12:00,13:30-16:30; Sa 09:00-12:00";33477011130;;42302;Sorbiers
+4.3868711;45.4856839004146;node/6359999101;townhall;Mairie La-Tour-en-Jarez;;Mo-Sa 08:30-12:00;33477932341;mairie-tour-en-jarez@wanadoo.fr;42311;La Tour-en-Jarez
+4.2614902;45.3996839004252;node/6360138300;townhall;Hotel de Ville Unieux;;"Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00,13:30-16:30";33477403080;;42316;Unieux
+4.4850849;45.4594715004179;node/6497172615;government;Direction Interdépartementale Routes Centre Est;;;;;42207;Saint-Chamond
+4.5349549;45.4676068004169;node/6527838909;government;Conseil Général de la Loire - Développement Durable;;;;;42207;Saint-Chamond
+4.3888892;45.4392837004204;node/6579645040;government;Maison du Projet;Ville de Saint-Etienne;"Tu-Fr 11:00-19:00; Sa 11:00-18:30";;;42218;Saint-Etienne
+4.4092833;45.4532035004187;node/6900916535;government;Centre régional de dédouanement;;;;;42218;Saint-Etienne
+4.3984343;45.4402837004202;node/7067353699;government;EPORA Saint-Etienne;;;+334 77 47 47 50;;42218;Saint-Etienne
+4.4079499;45.4249830004221;node/7182685837;government;Centre des finances publiques;;Mo-Fr 08:30-12:00;;;42218;Saint-Etienne
+4.2861249;45.5308027004089;node/7259543418;government;Philibert autocars  Andrézieux-Bouthéon;;Mo-Fr 08:00-12:00, 14:00-18:00;-477022072;;42005;Andrézieux-Bouthéon
+4.3270502;45.4331017004211;node/7335459334;townhall;;;;;;42189;Roche-la-Molière
+4.646367;45.4792996004154;node/778673060;townhall;Mairie Sainte-Croix-en-Jarez;;Mo,Th 14:00-17:30;33477202001;mairie.sc@wanadoo.fr;42210;Sainte-Croix-en-Jarez
+4.3992961;45.4403854004202;node/7829580271;government;Centre des Impôts Saint-Etienne;;;;;42218;Saint-Etienne
+4.3990628;45.4401388004203;node/7829580272;government;Direction Départementale des Territoires;;;;;42218;Saint-Etienne
+4.5265443;45.4815038004152;node/8480258506;government;Inspection de l'Education Nationale;;"Mo,Tu,Th,Fr 07:45-12:15,13:30-17:00; We 07:45-12:00";+33 4 77 22 61 86;ce.0420954j@ac-lyon.fr;42207;Saint-Chamond
+4.392736;45.4214598004225;node/8967700384;government;Centre des Finances Publiques;;Mo-Fr 08:30-12:30;33 477 818 779;;42218;Saint-Etienne
+4.38667595118228;45.4423866408419;relation/1000783;government;Préfecture de la Loire;;;;;42218;Saint-Etienne
+4.38166039904464;45.439805045805;relation/1000784;government;Département de la Loire;;;;;42218;Saint-Etienne
+4.3844629183638;45.4400593380573;relation/1000787;government;Banque de France;;;;;42218;Saint-Etienne
+4.38728788349846;45.4401804296624;relation/5201020;townhall;Hotel de Ville;Ville de Saint-Etienne;;;;42218;Saint-Etienne
+4.56950596906338;45.5039816548946;way/145779422;townhall;Hotel de Ville La Grand-Croix;;;33477732243;mairie-de-grand-croix@wanadoo.fr;42103;La Grand-Croix
+4.32898660396023;45.5433547699273;way/176082396;public_building;;;;;;42206;Saint-Bonnet-les-Oules
+4.32953991816294;45.5378929554153;way/176179594;public_building;;;;;;42206;Saint-Bonnet-les-Oules
+4.37361081213661;45.5295774455808;way/177136421;public_building;Salle Bouthieu;;;;;42234;Saint-Héand
+4.37236003923158;45.524899405448;way/177136585;public_building;Salle de Condelouse;;;;;42234;Saint-Héand
+4.55364738292255;45.5346508045538;way/181623668;townhall;Mairie de Chagnon;;;;;42036;Chagnon
+4.32165681205303;45.3961792868811;way/213112975;public_building;Salle Antoine Vachon;;;;;42044;Le Chambon-Feugerolles
+4.51268681584954;45.4760641808539;way/52982638;townhall;Mairie de Saint-Chamond;;"Mo-Fr 08:30-12:00,13:30-17:30; Sa 08:30-12:00";33477310505;;42207;Saint-Chamond
+4.26052286840608;45.4456566488898;way/62803457;townhall;Mairie de Saint-Victor sur Loire;;;;;42218;Saint-Etienne
+4.38545515731904;45.4378539343302;way/63255155;government;Direction départementale des finances publiques de la Loire;;;;;42218;Saint-Etienne
+4.38704126208556;45.4434768021283;way/63255920;government;Département de la Loire;;;;;42218;Saint-Etienne
+4.38025420834575;45.4400402622169;way/63293809;government;Département de la Loire;;;;;42218;Saint-Etienne
+4.39178889164447;45.425464237753;way/63320983;diplomatic;Consulat d'Algérie;;Tu-Sa 08:30-15:00;+33 4 77 59 31 41;;42218;Saint-Etienne
+4.38146085595935;45.4372616188815;way/63330270;government;Centre administratif Municipal Tarentaize;Ville de Saint-Etienne;;;;42218;Saint-Etienne
+4.38750865298395;45.4419559590431;way/63330509;government;Immeuble de La Loire Républicaine;;;;;42218;Saint-Etienne
+4.40366509874332;45.4414510748604;way/636357983;government;Caisse d'Allocations Familiales de la Loire;Caisse d'Allocations Familiales;"Mo-Th 08:30-16:30; Fr 08:30-16:00";;;42218;Saint-Etienne
+4.44160318778994;45.443445595885;way/65633304;public_building;Centre technique municipal de Saint-Jean-Bonnefonds;;;;;42237;Saint-Jean-Bonnefonds
+4.37790039040994;45.4681400018555;way/65638368;government;Siel Saint-Priest-en-Jarez;;;;;42275;Saint-Priest-en-Jarez
+4.38499615334976;45.4652675966814;way/863187801;government;Service départemental d'incendie et de secours de la Loire;SDIS 42;;+33 4 77 91 08 00;;42218;Saint-Ã‰tienne
+4.32281175912568;45.3958922200523;way/86506271;public_building;Commissariat subdivisionnaire d'Ondaine;;;;;42044;Le Chambon-Feugerolles
+4.32142624762971;45.3963624532613;way/86512291;public_building;Salle Louis Aragon;;;;;42044;Le Chambon-Feugerolles
+4.32779216834236;45.3917167475554;way/86514799;public_building;Acti'MÃ´mes;;;;;42044;Le Chambon-Feugerolles
+4.32415753858796;45.3948682327196;way/86517782;public_building;Pôle de services;;;;;42044;Le Chambon-Feugerolles
+4.3236548100573;45.3964914443664;way/86519387;public_building;Ensemble halles-boulodrome AndrÃ© Cognet;;;;;42044;Le Chambon-Feugerolles
